@@ -1,5 +1,5 @@
 
-# <course title and date>
+# course title and date
 
 ## MSLearn courseware and achievement Links for all attendees
 
@@ -14,3 +14,7 @@ Please log in with the Microsoft ID you intend to use with MSLearn.
 Use your existing account if you have one, otherwise register and redeem your lab access (Manual access keys included, just in case the links don't work).
 
 ...
+
+## Post-course evaluation
+
+[Evaluation (everyone)](https://www.metricsthatmatter.com/auldct47)
