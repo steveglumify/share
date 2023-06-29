@@ -7,8 +7,8 @@ Please use only your assigned keys.
 
 Student name
 
-- Courseware: key
-- Lab: key
+- Student Guide: key
+- CertMaster Lab: key
 
 ...
 
