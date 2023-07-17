@@ -14,7 +14,7 @@ CIS benchmarks site no longer matches instructions
 
 Couldn't see any logs from MS10 - odd error message. No idea
 
-If bash gets stuck in the wrong colour -
+If bash (linux shell) gets stuck in the wrong colour -
 
 `echo -e "\033[0m"`
 
