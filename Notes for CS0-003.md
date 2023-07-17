@@ -18,3 +18,14 @@ If bash (linux shell) gets stuck in the wrong colour -
 
 `echo -e "\033[0m"`
 
+## Performing passive scanning
+
+ICMP unreachables leaked thru filter?
+
+## Establishing context awareness
+
+Not sure why the lab considers kali unaffected by CVE-2021-4217
+
+Email stuff - lots of *type to active machine* buttons instead of *copy text* buttons.
+
+No copy marker for email header - manual select and copy..
