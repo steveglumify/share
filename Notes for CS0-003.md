@@ -10,3 +10,11 @@ Alienvault link returns no useable result. Try [https://otx.alienvault.com/pulse
 
 CIS benchmarks site no longer matches instructions
 
+## Configuring centralised logging
+
+Couldn't see any logs from MS10 - odd error message. No idea
+
+If bash gets stuck in the wrong colour -
+
+`echo -e "\033[0m"`
+
