@@ -29,3 +29,11 @@ Not sure why the lab considers kali unaffected by CVE-2021-4217
 Email stuff - lots of *type to active machine* buttons instead of *copy text* buttons.
 
 No copy marker for email header - manual select and copy..
+
+## Detecting legacy systems
+
+.2 scan result differs from described
+
+.9 and .14 results swapped in scan result
+
+EOS details for Debian 12.2 are a bit messed up in the lab instructions
