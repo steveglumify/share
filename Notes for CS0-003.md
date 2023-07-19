@@ -63,3 +63,10 @@ Take care to append ie >>
 String 'slacker' may or may not be present depending on screen resolution
 
 In Hexedit - strange behaviour for search - full screen mode didn't change behaviour. Just pressed W ???
+
+## analysing potentially malicious files
+
+In 'File analysis with virus total'
+
+step 24 typo.. Correct validation choice is out by 1 digit - you figure it out :)
+
