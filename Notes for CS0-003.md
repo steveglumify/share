@@ -37,3 +37,29 @@ No copy marker for email header - manual select and copy..
 .9 and .14 results swapped in scan result
 
 EOS details for Debian 12.2 are a bit messed up in the lab instructions
+
+## IoC detection and analysis
+
+Command to add  administrator needs /add not /all
+
+## Performing playbook incident response
+
+Hash will only validate if generated using openSSL - ie CLI-CP method due to case mismatch
+
+## Using file analysis techniques
+
+Hint:
+
+`strings -n 21 sample.*ext*`
+
+will only show strings 21 chars or longer
+
+`md5sum 4-kwsrch-ext3/ext3-img-kw-1.dd >> 4-kwsrch-ext3-hash.txt`
+
+Take care to append ie >>
+
+`less imageout.txt`
+
+String 'slacker' may or may not be present depending on screen resolution
+
+In Hexedit - strange behaviour for search - full screen mode didn't change behaviour. Just pressed W ???
