@@ -64,7 +64,7 @@ String 'slacker' may or may not be present depending on screen resolution
 
 In Hexedit - strange behaviour for search - full screen mode didn't change behaviour. Just pressed W ???
 
-## analysing potentially malicious files
+## Analysing potentially malicious files
 
 In 'File analysis with virus total'
 
