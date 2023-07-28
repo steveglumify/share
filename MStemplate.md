@@ -13,6 +13,8 @@ Please log in with the Microsoft ID you intend to use with MSLearn.
 
 Use your existing account if you have one, otherwise register and redeem your lab access (Manual access keys included, just in case the links don't work).
 
+Student &emsp;[code](link)
+
 ...
 
 ## Post-course evaluation
