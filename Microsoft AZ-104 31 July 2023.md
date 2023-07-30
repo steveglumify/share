@@ -13,7 +13,7 @@ Please log in with the Microsoft ID you intend to use with MSLearn.
 
 Use your existing account if you have one, otherwise register and redeem your lab access (Manual access keys included, just in case the links don't work).
 
-CJ &emsp;&emsp;[18159C30192E482E](https://auldhouse.learnondemand.net/ClassEnrollmentTrainingKey/485900)
+Cameron &emsp;&emsp;[18159C30192E482E](https://auldhouse.learnondemand.net/ClassEnrollmentTrainingKey/485900)
 
 Lane &emsp;[3B4AD051820F4029](https://auldhouse.learnondemand.net/ClassEnrollmentTrainingKey/485899)
 
