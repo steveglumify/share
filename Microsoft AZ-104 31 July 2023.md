@@ -15,9 +15,9 @@ Use your existing account if you have one, otherwise register and redeem your la
 
 Cameron &emsp;&emsp;[18159C30192E482E](https://auldhouse.learnondemand.net/ClassEnrollmentTrainingKey/485900)
 
-Lane &emsp;&emsp;[3B4AD051820F4029](https://auldhouse.learnondemand.net/ClassEnrollmentTrainingKey/485899)
+Lane &emsp;&emsp;&emsp;[3B4AD051820F4029](https://auldhouse.learnondemand.net/ClassEnrollmentTrainingKey/485899)
 
-Alvin &emsp;&emsp;[76608EA22DB14D2F](https://auldhouse.learnondemand.net/ClassEnrollmentTrainingKey/485902)
+Alvin &emsp;&emsp;&emsp;[76608EA22DB14D2F](https://auldhouse.learnondemand.net/ClassEnrollmentTrainingKey/485902)
 
 [Manual link to LearnOnDemand Systems](https://auldhouse.learnondemand.net/) - In case the enrollment links don't work for any reason.
 
