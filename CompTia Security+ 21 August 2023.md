@@ -1,14 +1,10 @@
 
-# Network+ 14 August 2023
+# Security+ 21 August 2023
 
 ## CompTia courseware and lab keys
 
-Please use only your assigned keys.
-
-Vila
-
-- Student Guide: BPSDNETSXK8T66ZCE
-- CertMaster Lab: SKLSNETNMW4CYPY3M
+- Student Guide: BPSDSECTINFH77057
+- CertMaster Lab: SKLSSECA7BTV5YRJM
 
 ...
 
