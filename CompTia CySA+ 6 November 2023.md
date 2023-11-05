@@ -17,7 +17,7 @@ David
 
 Jean
 
-- Student Guide: BPSDCYS9JFD794VP7
+- Student Guide: BPSDCYSCQPE3FADL9
 - CertMaster Lab: SKLSCYS5IUGXMQL5F
 
 Richard
