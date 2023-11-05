@@ -1,5 +1,5 @@
 
-# CompTia CYsA+ 6 November 2023
+# CompTia CySA+ 6 November 2023
 
 ## CompTia courseware and lab keys
 
