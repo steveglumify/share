@@ -1,39 +1,15 @@
 
-# CompTia CySA+ 6 November 2023
+# CompTia Network+ 20 November 2023
 
 ## CompTia courseware and lab keys
 
 Please use only your assigned keys.
 
-Daniel
+Kim
 
-- Student Guide: BPSDCYSI69Z2FTYQG
-- CertMaster Lab: SKLSCYSH6YQ83IM3V
+- Student Guide: BPSDNET8YGQ3ZESTN
+- CertMaster Lab: SKLSNETYZEDNFMJD8
 
-David
-
-- Student Guide: BPSDCYSB6RR6HR3BD
-- CertMaster Lab: SKLSCYSP8KZK5R34C
-
-Jean
-
-- Student Guide: BPSDCYSCQPE3FADL9
-- CertMaster Lab: SKLSCYS5IUGXMQL5F
-
-Richard
-
-- Student Guide: BPSDCYS9JFD794VP7
-- CertMaster Lab: SKLSCYS88P61EASNV
-
-Alice
-
-- Student Guide: BPSDCYSI3CV53561G
-- CertMaster Lab: SKLSCYSEA758KILYU
-
-Ben
-
-- Student Guide: BPSDCYSS13XQHIM0H
-- CertMaster Lab: SKLSCYSHPRG4ES6LA
 
 ### Redeeming an access key
 
