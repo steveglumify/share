@@ -66,6 +66,4 @@ In Hexedit - strange behaviour for search - full screen mode didn't change behav
 
 ## Analysing potentially malicious files
 
-In 'File analysis with virus total'
-
-step 24 typo.. Correct validation choice is out by 1 digit - you figure it out :)
+Hashsets now requires an account...
