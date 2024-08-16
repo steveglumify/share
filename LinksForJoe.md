@@ -1,7 +1,4 @@
 # Class stuff
-## Webex 
-
-[Webex meeting](https://lumifygroup.webex.com/lumifygroup/j.php?MTID=m15e6b89cae8b9bba18779321bd0f215d)
 
 ## Courseware
 
