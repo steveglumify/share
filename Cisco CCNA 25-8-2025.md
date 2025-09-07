@@ -3,7 +3,7 @@
 
 ## Webex virtual classroom link
 
-[Click here for Webex](https://lumifygroup.webex.com/lumifygroup/j.php?MTID=m41b97ca5bbec7a16fea1f78be9713308)
+[Click here for Webex](https://lumifygroup.webex.com/lumifygroup/j.php?MTID=mc59d139ed64b6542b50fcf7119e000ae)
 
 ## Cisco Learning & Certifications Labs
 
