@@ -1,9 +1,9 @@
 
-# CCNA 2.2 25 August 2025
+# WLFNDU 15 September 2025
 
 ## Webex virtual classroom link
 
-[Click here for Webex](https://lumifygroup.webex.com/lumifygroup/j.php?MTID=mc59d139ed64b6542b50fcf7119e000ae)
+[Click here for Webex](https://lumifygroup.webex.com/lumifygroup/j.php?MTID=m3a2153ef05573e5f3b43229f1e78ca43)
 
 ## Cisco Learning & Certifications Labs
 
